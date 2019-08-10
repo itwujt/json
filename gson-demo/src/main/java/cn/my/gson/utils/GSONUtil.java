@@ -177,5 +177,5 @@ public class GSONUtil {
     public static <T> Map<String, T> fromJSONObject(JsonObject jsonObject, Map<String, T> map) {
         return gson.fromJson(jsonObject, map.getClass());
     }
-    
+
 }

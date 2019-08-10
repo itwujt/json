@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2185577-7f3f-4a45-bc9c-df2ee099707b" name="Default Changelist" comment="" />
+    <list default="true" id="e2185577-7f3f-4a45-bc9c-df2ee099707b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gson-demo/src/main/java/cn/my/gson/utils/GSONUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gson-demo/src/main/java/cn/my/gson/utils/GSONUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/gson-demo/target/" />
+    <ignored path="$PROJECT_DIR$/fastjson/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,53 +21,67 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="660">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gson-demo/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gson-demo/src/main/java/cn/my/gson/utils/GSONUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5370">
-              <caret line="179" column="4" selection-start-line="179" selection-start-column="4" selection-end-line="179" selection-end-column="4" />
+            <state relative-caret-position="-240">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#977#978#0" expanded="true" />
-                <element signature="e#1039#1040#0" expanded="true" />
-                <element signature="e#1489#1490#0" expanded="true" />
-                <element signature="e#1550#1551#0" expanded="true" />
+                <element signature="e#1971#1972#0" expanded="true" />
                 <element signature="e#2032#2033#0" expanded="true" />
+                <element signature="e#2352#2353#0" expanded="true" />
                 <element signature="e#2415#2416#0" expanded="true" />
+                <element signature="e#2847#2848#0" expanded="true" />
                 <element signature="e#2907#2908#0" expanded="true" />
-                <element signature="e#3131#3132#0" expanded="true" />
-                <element signature="e#3186#3187#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gson-demo/src/test/java/cn/my/gson/utils/GSONUtilTest.java">
+        <entry file="file://$PROJECT_DIR$/fastjson/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="222" column="37" selection-start-line="222" selection-start-column="37" selection-end-line="222" selection-end-column="37" />
+            <state relative-caret-position="720">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fastjson/src/main/java/cn/my/cn/my/fast/utils/FastJsonUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="80" column="29" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1377#1378#0" expanded="true" />
+                <element signature="e#1437#1438#0" expanded="true" />
+                <element signature="e#1749#1750#0" expanded="true" />
+                <element signature="e#1807#1808#0" expanded="true" />
+                <element signature="e#2235#2236#0" expanded="true" />
+                <element signature="e#2292#2293#0" expanded="true" />
+                <element signature="e#2671#2672#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fastjson/src/test/java/cn/my/cn/my/fast/utils/FastJsonUtilTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="177" column="61" selection-start-line="177" selection-start-column="61" selection-end-line="177" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,10 +94,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,7 +110,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/gson-demo/src/main/java/cn/my/gson/utils/User.java" />
         <option value="$PROJECT_DIR$/gson-demo/src/test/java/cn/my/gson/utils/GSONUtilTest.java" />
+        <option value="$PROJECT_DIR$/fastjson/pom.xml" />
         <option value="$PROJECT_DIR$/gson-demo/src/main/java/cn/my/gson/utils/GSONUtil.java" />
+        <option value="$PROJECT_DIR$/fastjson/src/test/java/cn/my/cn/my/fast/utils/FastJsonUtilTest.java" />
+        <option value="$PROJECT_DIR$/fastjson/src/main/java/cn/my/cn/my/fast/utils/FastJsonUtil.java" />
       </list>
     </option>
   </component>
@@ -139,11 +165,13 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -155,70 +183,29 @@
             <path>
               <item name="json-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="json-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="gson-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="fastjson" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="json-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="json-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="gson-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="fastjson" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="json-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="json-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="gson-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="gson-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="fastjson" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="gson-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="gson-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="gson-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="gson-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -236,6 +223,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.my.cn.my.fast.utils" />
       <recent name="cn.my.gson.utils" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -254,82 +242,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GSONUtilTest.test17">
-    <configuration name="GSONUtilTest.test13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gson-demo" />
+  <component name="RunManager" selected="JUnit.FastJsonUtilTest.test14">
+    <configuration name="FastJsonUtilTest.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fastjson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.my.gson.utils.*" />
+          <option name="PATTERN" value="cn.my.cn.my.fast.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.my.gson.utils" />
-      <option name="MAIN_CLASS_NAME" value="cn.my.gson.utils.GSONUtilTest" />
+      <option name="PACKAGE_NAME" value="cn.my.cn.my.fast.utils" />
+      <option name="MAIN_CLASS_NAME" value="cn.my.cn.my.fast.utils.FastJsonUtilTest" />
+      <option name="METHOD_NAME" value="test10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastJsonUtilTest.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fastjson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.my.cn.my.fast.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.my.cn.my.fast.utils" />
+      <option name="MAIN_CLASS_NAME" value="cn.my.cn.my.fast.utils.FastJsonUtilTest" />
+      <option name="METHOD_NAME" value="test11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastJsonUtilTest.test12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fastjson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.my.cn.my.fast.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.my.cn.my.fast.utils" />
+      <option name="MAIN_CLASS_NAME" value="cn.my.cn.my.fast.utils.FastJsonUtilTest" />
+      <option name="METHOD_NAME" value="test12" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastJsonUtilTest.test13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fastjson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.my.cn.my.fast.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.my.cn.my.fast.utils" />
+      <option name="MAIN_CLASS_NAME" value="cn.my.cn.my.fast.utils.FastJsonUtilTest" />
       <option name="METHOD_NAME" value="test13" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GSONUtilTest.test14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gson-demo" />
+    <configuration name="FastJsonUtilTest.test14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fastjson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.my.gson.utils.*" />
+          <option name="PATTERN" value="cn.my.cn.my.fast.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.my.gson.utils" />
-      <option name="MAIN_CLASS_NAME" value="cn.my.gson.utils.GSONUtilTest" />
+      <option name="PACKAGE_NAME" value="cn.my.cn.my.fast.utils" />
+      <option name="MAIN_CLASS_NAME" value="cn.my.cn.my.fast.utils.FastJsonUtilTest" />
       <option name="METHOD_NAME" value="test14" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GSONUtilTest.test15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gson-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.my.gson.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.my.gson.utils" />
-      <option name="MAIN_CLASS_NAME" value="cn.my.gson.utils.GSONUtilTest" />
-      <option name="METHOD_NAME" value="test15" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GSONUtilTest.test16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gson-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.my.gson.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.my.gson.utils" />
-      <option name="MAIN_CLASS_NAME" value="cn.my.gson.utils.GSONUtilTest" />
-      <option name="METHOD_NAME" value="test16" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GSONUtilTest.test17" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gson-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.my.gson.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.my.gson.utils" />
-      <option name="MAIN_CLASS_NAME" value="cn.my.gson.utils.GSONUtilTest" />
-      <option name="METHOD_NAME" value="test17" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -337,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GSONUtilTest.test17" />
-        <item itemvalue="JUnit.GSONUtilTest.test16" />
-        <item itemvalue="JUnit.GSONUtilTest.test15" />
-        <item itemvalue="JUnit.GSONUtilTest.test14" />
-        <item itemvalue="JUnit.GSONUtilTest.test13" />
+        <item itemvalue="JUnit.FastJsonUtilTest.test14" />
+        <item itemvalue="JUnit.FastJsonUtilTest.test13" />
+        <item itemvalue="JUnit.FastJsonUtilTest.test12" />
+        <item itemvalue="JUnit.FastJsonUtilTest.test11" />
+        <item itemvalue="JUnit.FastJsonUtilTest.test10" />
       </list>
     </recent_temporary>
   </component>
@@ -355,78 +343,89 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565233801385</updated>
-      <workItem from="1565233804572" duration="11018000" />
+      <workItem from="1565233804572" duration="11375000" />
+      <workItem from="1565263972629" duration="3284000" />
+      <workItem from="1565441605760" duration="5268000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GSONUtilTest_test12 - 2019.08.08 at 13h 10m 24s.xml">
-      <configuration name="GSONUtilTest.test12" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test8 - 2019.08.10 at 21h 56m 34s.xml">
+      <configuration name="FastJsonUtilTest.test8" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GSONUtilTest_test12 - 2019.08.08 at 13h 13m 42s.xml">
-      <configuration name="GSONUtilTest.test12" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test8 - 2019.08.10 at 22h 03m 45s.xml">
+      <configuration name="FastJsonUtilTest.test8" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GSONUtilTest_test12 - 2019.08.08 at 13h 14m 42s.xml">
-      <configuration name="GSONUtilTest.test12" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test10 - 2019.08.10 at 22h 06m 14s.xml">
+      <configuration name="FastJsonUtilTest.test10" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GSONUtilTest_test13 - 2019.08.08 at 13h 32m 13s.xml">
-      <configuration name="GSONUtilTest.test13" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test11 - 2019.08.10 at 22h 07m 39s.xml">
+      <configuration name="FastJsonUtilTest.test11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GSONUtilTest_test13 - 2019.08.08 at 13h 36m 44s.xml">
-      <configuration name="GSONUtilTest.test13" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test12 - 2019.08.10 at 22h 15m 23s.xml">
+      <configuration name="FastJsonUtilTest.test12" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GSONUtilTest_test14 - 2019.08.08 at 13h 40m 42s.xml">
-      <configuration name="GSONUtilTest.test14" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test12 - 2019.08.10 at 22h 15m 48s.xml">
+      <configuration name="FastJsonUtilTest.test12" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GSONUtilTest_test15 - 2019.08.08 at 13h 48m 09s.xml">
-      <configuration name="GSONUtilTest.test15" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test13 - 2019.08.10 at 22h 19m 16s.xml">
+      <configuration name="FastJsonUtilTest.test13" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GSONUtilTest_test16 - 2019.08.08 at 13h 49m 15s.xml">
-      <configuration name="GSONUtilTest.test16" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test13 - 2019.08.10 at 22h 19m 26s.xml">
+      <configuration name="FastJsonUtilTest.test13" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GSONUtilTest_test17 - 2019.08.08 at 15h 10m 12s.xml">
-      <configuration name="GSONUtilTest.test17" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test14 - 2019.08.10 at 22h 25m 14s.xml">
+      <configuration name="FastJsonUtilTest.test14" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GSONUtilTest_test17 - 2019.08.08 at 15h 10m 28s.xml">
-      <configuration name="GSONUtilTest.test17" configurationId="JUnit" />
+    <history-entry file="FastJsonUtilTest_test14 - 2019.08.10 at 22h 26m 17s.xml">
+      <configuration name="FastJsonUtilTest.test14" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11018000" />
+    <option name="totallyTimeSpent" value="19927000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="JRebel" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11875945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="JRebel Executor" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32879046" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.51107323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32764506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5102389" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" weight="0.32980332" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="JRebel Executor" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32935154" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32980332" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,6 +438,9 @@
     <SUITE FILE_PATH="coverage/json_demo$GSONUtilTest_test2.ic" NAME="GSONUtilTest.test2 Coverage Results" MODIFIED="1565234993266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.my.gson.utils.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/json_demo$FastJsonUtilTest_test13.ic" NAME="FastJsonUtilTest.test13 Coverage Results" MODIFIED="1565446753865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.my.cn.my.fast.utils.*</FILTER>
+    </SUITE>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -450,37 +452,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gson-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gson-demo/src/main/java/cn/my/gson/utils/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-          <folding>
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gson-demo/src/main/java/cn/my/gson/utils/User.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/GsonBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1253">
@@ -488,9 +460,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gson-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gson-demo/src/test/java/cn/my/gson/utils/GSONUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="6480">
           <caret line="222" column="37" selection-start-line="222" selection-start-column="37" selection-end-line="222" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -498,23 +477,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fastjson/src/main/java/cn/my/fast.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.9/fastjson-1.2.9.jar!/com/alibaba/fastjson/serializer/SerializerFeature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastjson/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gson-demo/src/main/java/cn/my/gson/utils/GSONUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5370">
-          <caret line="179" column="4" selection-start-line="179" selection-start-column="4" selection-end-line="179" selection-end-column="4" />
+        <state relative-caret-position="-240">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1489#1490#0" expanded="true" />
-            <element signature="e#1550#1551#0" expanded="true" />
+            <element signature="e#1971#1972#0" expanded="true" />
             <element signature="e#2032#2033#0" expanded="true" />
+            <element signature="e#2352#2353#0" expanded="true" />
             <element signature="e#2415#2416#0" expanded="true" />
+            <element signature="e#2847#2848#0" expanded="true" />
             <element signature="e#2907#2908#0" expanded="true" />
-            <element signature="e#3131#3132#0" expanded="true" />
-            <element signature="e#3186#3187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.9/fastjson-1.2.9.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-984">
+          <caret line="247" column="28" selection-start-line="247" selection-start-column="28" selection-end-line="247" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.9/fastjson-1.2.9.jar!/com/alibaba/fastjson/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7456">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1125#1126#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1229#1230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastjson/src/test/java/cn/my/cn/my/fast/utils/FastJsonUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="177" column="61" selection-start-line="177" selection-start-column="61" selection-end-line="177" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastjson/src/main/java/cn/my/cn/my/fast/utils/FastJsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="80" column="29" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1377#1378#0" expanded="true" />
+            <element signature="e#1437#1438#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#1807#1808#0" expanded="true" />
+            <element signature="e#2235#2236#0" expanded="true" />
+            <element signature="e#2292#2293#0" expanded="true" />
+            <element signature="e#2671#2672#0" expanded="true" />
           </folding>
         </state>
       </provider>
