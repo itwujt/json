@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gson-demo" />
         <module name="fastjson" />
+        <module name="gson-demo" />
       </profile>
     </annotationProcessing>
   </component>

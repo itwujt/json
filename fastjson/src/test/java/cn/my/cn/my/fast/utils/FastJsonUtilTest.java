@@ -179,4 +179,46 @@ public class FastJsonUtilTest {
         System.out.println(jsonObject);
     }
 
+
+    @Test
+    public void test15() {
+        String[] arr = {"1", "s", "w"};
+        JSONArray jsonArray = FastJsonUtil.toJSONArray(arr);
+        String[] strings = FastJsonUtil.parseJSONToObject(jsonArray, String[].class);
+        for (String string : strings) {
+            System.out.println(string);
+        }
+    }
+
+    @Test
+    public void test16() {
+        List<String> list = new ArrayList<>();
+        list.add("asdsa");
+        list.add("asdsas");
+        JSONArray jsonArray = FastJsonUtil.toJSONArray(list);
+        String[] strings = FastJsonUtil.parseJSONToObject(jsonArray, String[].class);
+        for (String string : strings) {
+            System.out.println(string);
+        }
+    }
+
+    @Test
+    public void test17() {
+        List<String> list = new ArrayList<>();
+        list.add("asdsa");
+        list.add("asdsas");
+        JSONArray jsonArray = FastJsonUtil.toJSONArray(list);
+        List list1 = FastJsonUtil.parseJSONArrayToObject(jsonArray, list.getClass());
+        for (Object o : list1) {
+            System.out.println(o);
+        }
+        String s = FastJsonUtil.parseJSONToObject(jsonArray, String.class);
+        System.out.println(s);
+    }
+
+
+
+
+
+
 }

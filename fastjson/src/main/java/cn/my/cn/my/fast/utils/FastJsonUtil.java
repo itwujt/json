@@ -132,6 +132,20 @@ public class FastJsonUtil {
     }
 
 
+    /**
+     * @Author: Wjt <br></br>
+     * @Date: 2019/8/11 15:37 <br></br>
+     * @Params: [json, clazz] JSON json, Class<T> clazz <br></br>
+     * @Return: T <br></br>
+     * @Description: 将 JSON 解析为javaObject <br></br>
+     * 注意： 如果是要解析成 List，Set，集合形式的话，请使用 parseJSONArrayToObject方法 <br></br>
+     * 该方法不支持解析成List，Set等集合，但是支持解析为数组 <br></br>
+     */
+    public static <T> T parseJSONToObject(JSON json, Class<T> clazz) {
+        return JSON.toJavaObject(json, clazz);
+    }
+
+
 
 
 }
