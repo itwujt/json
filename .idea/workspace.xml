@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2185577-7f3f-4a45-bc9c-df2ee099707b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastjson/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fastjson/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastjson/src/main/java/cn/my/cn/my/fast/utils/FastJsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/fastjson/src/main/java/cn/my/cn/my/fast/utils/FastJsonUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastjson/src/test/java/cn/my/cn/my/fast/utils/FastJsonUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fastjson/src/test/java/cn/my/cn/my/fast/utils/FastJsonUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastjson/target/classes/cn/my/cn/my/fast/utils/FastJsonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/fastjson/target/classes/cn/my/cn/my/fast/utils/FastJsonUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastjson/target/test-classes/cn/my/cn/my/fast/utils/FastJsonUtilTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fastjson/target/test-classes/cn/my/cn/my/fast/utils/FastJsonUtilTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fastjson/src/main/java/cn/my/cn/my/fast/utils/FastJsonUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
+            <state relative-caret-position="42">
               <caret line="141" column="47" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fastjson/src/test/java/cn/my/cn/my/fast/utils/FastJsonUtilTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="222" column="37" selection-start-line="222" selection-start-column="37" selection-end-line="222" selection-end-column="37" />
+            <state relative-caret-position="30">
+              <caret line="218" selection-start-line="218" selection-end-line="218" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -281,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FastJsonUtilTest.test18">
+  <component name="RunManager" selected="JUnit.FastJsonUtilTest.test17">
     <configuration name="FastJsonUtilTest.test14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fastjson" />
       <extension name="coverage">
@@ -346,25 +344,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FastJsonUtilTest.test18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="fastjson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.my.cn.my.fast.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.my.cn.my.fast.utils" />
-      <option name="MAIN_CLASS_NAME" value="cn.my.cn.my.fast.utils.FastJsonUtilTest" />
-      <option name="METHOD_NAME" value="test18" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="JUnit.FastJsonUtilTest.test14" />
+      <item itemvalue="JUnit.FastJsonUtilTest.test15" />
+      <item itemvalue="JUnit.FastJsonUtilTest.test16" />
+      <item itemvalue="JUnit.FastJsonUtilTest.test17" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FastJsonUtilTest.test18" />
         <item itemvalue="JUnit.FastJsonUtilTest.test17" />
         <item itemvalue="JUnit.FastJsonUtilTest.test16" />
         <item itemvalue="JUnit.FastJsonUtilTest.test15" />
@@ -385,17 +372,19 @@
       <workItem from="1565233804572" duration="11375000" />
       <workItem from="1565263972629" duration="3284000" />
       <workItem from="1565441605760" duration="5937000" />
-      <workItem from="1565507400971" duration="1961000" />
+      <workItem from="1565507400971" duration="2234000" />
     </task>
+    <task id="LOCAL-00001" summary="update FastJsonUtil">
+      <created>1565509552802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565509552802</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FastJsonUtilTest_test14 - 2019.08.10 at 22h 26m 17s.xml">
-      <configuration name="FastJsonUtilTest.test14" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FastJsonUtilTest_test15 - 2019.08.11 at 15h 18m 13s.xml">
-      <configuration name="FastJsonUtilTest.test15" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FastJsonUtilTest_test16 - 2019.08.11 at 15h 18m 58s.xml">
       <configuration name="FastJsonUtilTest.test16" configurationId="JUnit" />
     </history-entry>
@@ -420,9 +409,15 @@
     <history-entry file="FastJsonUtilTest_test17 - 2019.08.11 at 15h 37m 23s.xml">
       <configuration name="FastJsonUtilTest.test17" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FastJsonUtilTest_test18 - 2019.08.11 at 15h 42m 50s.xml">
+      <configuration name="FastJsonUtilTest.test18" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastJsonUtilTest_test18 - 2019.08.11 at 15h 43m 17s.xml">
+      <configuration name="FastJsonUtilTest.test18" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22557000" />
+    <option name="totallyTimeSpent" value="22830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -435,7 +430,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -446,7 +440,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32764506" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5102389" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.5102389" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
@@ -454,7 +448,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.5102389" />
       <window_info anchor="bottom" id="JRebel Executor" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32935154" />
       <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" />
@@ -470,6 +464,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update FastJsonUtil" />
+    <option name="LAST_COMMIT_MESSAGE" value="update FastJsonUtil" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/json_demo$GSONUtilTest_test3.ic" NAME="GSONUtilTest.test3 Coverage Results" MODIFIED="1565236771280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -579,9 +577,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fastjson/src/test/java/cn/my/cn/my/fast/utils/FastJsonUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fastjson/src/main/java/cn/my/cn/my/fast/utils/FastJsonUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="42">
           <caret line="141" column="47" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -595,16 +603,6 @@
             <element signature="e#2745#2746#0" expanded="true" />
             <element signature="e#4805#4806#0" expanded="true" />
             <element signature="e#4858#4859#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fastjson/src/test/java/cn/my/cn/my/fast/utils/FastJsonUtilTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="222" column="37" selection-start-line="222" selection-start-column="37" selection-end-line="222" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
